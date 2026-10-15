@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# secrets and local config
+.env
+.env.*
+!.env.example
+
+# saved enquiries (personal data — never commit)
+backend/storage/*.json
+backend/storage/*.tmp
+
+# deployment / tooling
+.vercel/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+*.log
+.vscode/*
+!.vscode/extensions.json

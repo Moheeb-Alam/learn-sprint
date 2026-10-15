@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Café website illustration">
+<title>Café website illustration</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2F62F0"/><stop offset="1" stop-color="#6D4BEA"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#g)"/>
+<rect x="60" y="44" width="680" height="412" rx="14" fill="#fff"/>
+<path d="M60 58a14 14 0 0 1 14-14h652a14 14 0 0 1 14 14v26H60z" fill="#EEF1FB"/>
+<circle cx="84" cy="64" r="5" fill="#FF7A8A"/><circle cx="102" cy="64" r="5" fill="#FFCB6B"/><circle cx="120" cy="64" r="5" fill="#6BD9A0"/>
+<rect x="160" y="56" width="300" height="16" rx="8" fill="#fff" />
+<rect x="80" y="100" width="640" height="150" rx="10" fill="#3D7BFF" /><rect x="110" y="128" width="250" height="16" rx="8" fill="#fff" opacity=".9"/><rect x="110" y="156" width="190" height="10" rx="5" fill="#fff" opacity=".6"/><rect x="110" y="190" width="110" height="32" rx="16" fill="#fff" /><rect x="80" y="270" width="204" height="160" rx="10" fill="#F3F5FC" /><rect x="94" y="284" width="176" height="72" rx="8" fill="#3D7BFF" opacity=".35"/><rect x="94" y="372" width="120" height="8" rx="4" fill="#D5DBEE" /><rect x="94" y="388" width="80" height="8" rx="4" fill="#D5DBEE" /><rect x="298" y="270" width="204" height="160" rx="10" fill="#F3F5FC" /><rect x="312" y="284" width="176" height="72" rx="8" fill="#3D7BFF" opacity=".35"/><rect x="312" y="372" width="120" height="8" rx="4" fill="#D5DBEE" /><rect x="312" y="388" width="80" height="8" rx="4" fill="#D5DBEE" /><rect x="516" y="270" width="204" height="160" rx="10" fill="#F3F5FC" /><rect x="530" y="284" width="176" height="72" rx="8" fill="#3D7BFF" opacity=".35"/><rect x="530" y="372" width="120" height="8" rx="4" fill="#D5DBEE" /><rect x="530" y="388" width="80" height="8" rx="4" fill="#D5DBEE" />
+</svg>
